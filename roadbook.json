@@ -1,0 +1,106 @@
+[  
+   {  
+      "isbn":9788997924035,
+      "title":"자바의 신 VOL.1, 기초 문법편",
+      "authors":[  
+         "이상민"
+      ],
+      "translators":[  
+
+      ],
+      "publisher":"로드북",
+      "imageUrl":"https://github.com/origoni/book-data/raw/master/book_cover/9788997924035.jpeg",
+      "publishedDate":"2013-02-28"
+   },
+   {  
+      "isbn":9788997924042,
+      "title":"자바의 신 Vol.2, 주요 API 응용편",
+      "authors":[  
+         "이상민"
+      ],
+      "translators":[  
+
+      ],
+      "publisher":"로드북",
+      "imageUrl":"https://github.com/origoni/book-data/raw/master/book_cover/9788997924042.jpeg",
+      "publishedDate":"2013-04-26"
+   },
+   {  
+      "isbn":9788997924103,
+      "title":"백견불여일타 JSP&Servlet",
+      "authors":[  
+         "성윤정"
+      ],
+      "translators":[  
+
+      ],
+      "publisher":"로드북",
+      "imageUrl":"https://github.com/origoni/book-data/raw/master/book_cover/9788997924103.jpeg",
+      "publishedDate":"2014-07-28"
+   },
+   {  
+      "isbn":9788997924202,
+      "title":"안드로이드의 신: 원리와 예제로 배운다",
+      "authors":[  
+         "남진하"
+      ],
+      "translators":[  
+
+      ],
+      "publisher":"로드북",
+      "imageUrl":"https://github.com/origoni/book-data/raw/master/book_cover/9788997924202.jpeg",
+      "publishedDate":"2016-05-10"
+   },
+   {  
+      "isbn":9788997924240,
+      "title":"자바 웹 프로그래밍 Next Step",
+      "authors":[  
+         "박재성"
+      ],
+      "translators":[  
+
+      ],
+      "publisher":"로드북",
+      "imageUrl":"https://github.com/origoni/book-data/raw/master/book_cover/9788997924240.jpeg",
+      "publishedDate":"2016-09-19"
+   },
+   {  
+      "isbn":9788997924271,
+      "title":"파이썬의 신: 프로그래밍 언어를 배운다는 것",
+      "authors":[  
+         "김주현"
+      ],
+      "translators":[  
+
+      ],
+      "publisher":"로드북",
+      "imageUrl":"https://github.com/origoni/book-data/raw/master/book_cover/9788997924271.jpeg",
+      "publishedDate":"2016-12-23"
+   },
+   {  
+      "isbn":9788997924325,
+      "title":"자바의 신, 2nd Edition (전2권)",
+      "authors":[  
+         "이상민"
+      ],
+      "translators":[  
+
+      ],
+      "publisher":"로드북",
+      "imageUrl":"https://github.com/origoni/book-data/raw/master/book_cover/9788997924325.jpeg",
+      "publishedDate":"2017-06-23"
+   },
+   {  
+      "isbn":9788997924264,
+      "title":"안드로이드 앱 성능 최적화",
+      "authors":[  
+         "더그 실라스"
+      ],
+      "translators":[  
+         "전병권"
+      ],
+      "publisher":"로드북",
+      "imageUrl":"https://github.com/origoni/book-data/raw/master/book_cover/9788997924264.jpeg",
+      "publishedDate":"2016-11-06"
+   }
+]
